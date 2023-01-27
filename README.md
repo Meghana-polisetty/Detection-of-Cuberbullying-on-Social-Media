@@ -1,4 +1,4 @@
-# Detection-of-Cuberbullying-on-Social-Media
+# Detection-of-Cyberbullying-on-Social-Media
 
 Cyberbullying statistics indicate that nearly 80% of adolescents use advanced cell phones on a daily basis, 92% go online at least once a day, and 56% go online frequently. 
 
